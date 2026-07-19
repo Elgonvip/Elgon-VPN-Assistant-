@@ -16,8 +16,11 @@ The AI uses approved business files to answer questions.
 A system that connects customers with the AI.
 
 ### 4. Communication Channels
-Future connections:
+Communication Channels
+
 - WhatsApp
+- Facebook Messenger
+- Website Chat
 - Other customer support platforms
 
 ## Development Steps
