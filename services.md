@@ -21,6 +21,10 @@ Customers can choose between:
 
 Bloodline Developers helps customers activate Airtel lines for VPN services.
 
+## 2. Airtel Line Activation
+
+Bloodline Developers helps customers activate Airtel lines for VPN services.
+
 ### Activation
 
 Contact Bloodline Developers for the latest activation information.
@@ -30,11 +34,13 @@ Contact Bloodline Developers for the latest activation information.
 - Customer's basic registration information.
 - Activation payment.
 
-Note:
-- National ID photos are NOT required.
-- Clear full-body photos are NOT required.
+**Note:**
+- National ID photos are **NOT** required.
+- Clear full-body photos are **NOT** required.
 
-After successful activation, the customer receives a free personal account valid for 30 days.
+After successful activation, the customer will receive the notification **"Operation Succeeded."** Every new customer also receives a **FREE Personal VPN account** valid for **30 days**.
+
+**Note:** Airtel line activation is a **one-time process**. Once your line has been activated successfully, it remains activated permanently. There is no need to activate the same line again in the future.
 
 ---
 
