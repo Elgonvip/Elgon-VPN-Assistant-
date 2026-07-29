@@ -24,7 +24,7 @@ Contact Bloodline Developers for the latest activation information.
 ### Requirements
 
 - Customer's Airtel number .
-- Activation fee.
+- Activation fee **UGX 30,000**.
 
 **Note:**
 - National ID photos are **NOT** required.
