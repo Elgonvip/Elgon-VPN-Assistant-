@@ -19,11 +19,11 @@ Bloodline Developers helps customers activate Airtel lines for VPN services.
 
 ### Activation
 
-Contact Bloodline Developers for the latest activation information.
+Contact Bloodline Developers on Whatsapp for the latest activation information.
 
 ### Requirements
 
-- Customer's Airtel number .
+- Customer's Airtel number.
 - Activation fee **UGX 30,000**.
 
 **Note:**
