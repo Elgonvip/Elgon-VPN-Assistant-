@@ -1,4 +1,4 @@
-# Bloodline Developers Services
+Activationers Services
 
 ## 1. Unlimited Data VPN Services
 
@@ -24,7 +24,7 @@ Contact Bloodline Developers for the latest activation information.
 ### Requirements
 
 - Customer's Airtel number .
-- Activation payment.
+- Activation fee.
 
 **Note:**
 - National ID photos are **NOT** required.
