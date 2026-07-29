@@ -13,15 +13,7 @@ Customers can choose between:
 
 ### Ordinary/Shared Account
 - Price: 3,000 UGX
-- Intended for multiple users.
-
----
-
-## 2. Airtel Line Activation
-
-Bloodline Developers helps customers activate Airtel lines for VPN services.
-
-## 2. Airtel Line Activation
+- Intended for multiple useinformation## 2. Airtel Line Activation
 
 Bloodline Developers helps customers activate Airtel lines for VPN services.
 
@@ -31,7 +23,7 @@ Contact Bloodline Developers for the latest activation information.
 
 ### Requirements
 
-- Customer's basic registration information.
+- Customer's Airtel number .
 - Activation payment.
 
 **Note:**
