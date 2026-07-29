@@ -21,14 +21,18 @@ Customers can choose between:
 
 Bloodline Developers helps customers activate Airtel lines for VPN services.
 
-### Activation Fee
-30,000 UGX
+### Activation
+
+Contact Bloodline Developers for the latest activation information.
 
 ### Requirements
-- Clear photo of the front side of the National ID.
-- Clear photo of the back side of the National ID.
-- Clear full-body photo of the National ID owner.
+
+- Customer's basic registration information.
 - Activation payment.
+
+Note:
+- National ID photos are NOT required.
+- Clear full-body photos are NOT required.
 
 After successful activation, the customer receives a free personal account valid for 30 days.
 
